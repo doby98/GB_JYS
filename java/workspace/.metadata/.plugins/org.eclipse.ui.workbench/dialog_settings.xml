@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="73" key="DIALOG_X_ORIGIN"/>
+		<item value="518" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item value="true" key="actionSetFilter"/>
+		<item value="true" key="uncategorizedFilter"/>
+		<item value="true" key="internalFilter"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="1266" key="dialogHeight"/>
+		<item value="545" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jpt.jaxb"/>
+			<item value="com.objectaid.uml.new"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.ZipFile" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="E:\풀스택 개발자 과정\0900_GB_JYS\java\능력단위평가\test6.zip"/>
+			<item value="E:\풀스택 개발자 과정\0900_GB_JYS\java\능력단위평가\test5.zip"/>
+			<item value="E:\풀스택 개발자 과정\0900_GB_JYS\java\프로젝트\Java 개인 프로젝트 Poker.zip"/>
+			<item value="E:\풀스택 개발자 과정\0900_GB_JYS\java\능력단위평가\test4.zip"/>
+			<item value="E:\풀스택 개발자 과정\0900_GB_JYS\java\능력단위평가\test3.zip"/>
+			<item value="E:\풀스택 개발자 과정\0900_GB_JYS\java\능력단위평가\test2_2.zip"/>
+			<item value="C:\Users\user\Desktop\test2_1.zip"/>
+			<item value="C:\Users\user\Desktop\test1.zip"/>
+		</list>
+	</section>
+</section>

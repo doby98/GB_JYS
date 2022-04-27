@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;day12/src/boxing&apos;&#x0D;&#x0A;- Original project: &apos;day10&apos;&#x0D;&#x0A;- Destination element: &apos;day12/src/boxing&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     override.Unit.java&#x0D;&#x0A;     override.Army.java&#x0D;&#x0A;     override.AirForce.java&#x0D;&#x0A;     override.Navy.java" description="Copy compilation units" destination="=day12/src&lt;boxing" element1="/src&lt;override{Unit.java" element2="/src&lt;override{Army.java" element3="/src&lt;override{AirForce.java" element4="/src&lt;override{Navy.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1648009718108" units="4" version="1.0"/>
+</session>

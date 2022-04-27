@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;overload.Charactor&apos; to &apos;Character&apos;&#x0D;&#x0A;- Original project: &apos;day11&apos;&#x0D;&#x0A;- Original element: &apos;overload.Charactor&apos;&#x0D;&#x0A;- Renamed element: &apos;overload.Character&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Charactor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;overload{Charactor.java[Charactor" matchStrategy="1" name="Character" qualified="false" references="true" similarDeclarations="false" stamp="1647828735423" textual="false" version="1.0"/>
+</session>

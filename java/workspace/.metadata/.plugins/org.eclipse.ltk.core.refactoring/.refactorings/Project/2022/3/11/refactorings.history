@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Project/src/Java1/Main03 - KTK.java&apos; to &apos;Main03_KTK.java&apos;" description="Rename resource &apos;Main03 - KTK.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Java1/Main03 - KTK.java" name="Main03_KTK.java" stamp="1646823967060" updateReferences="true"/>
+</session>
